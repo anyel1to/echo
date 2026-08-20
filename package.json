@@ -1,0 +1,12 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Drop a link or text, get clean summaries with vibe score",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
